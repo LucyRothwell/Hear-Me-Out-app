@@ -1,6 +1,6 @@
 # "Hear Me Out" - A mobile app with website content management system (CMS)
 
-Click [here](https://github.com/LucyRothwell/Hear-Me-Out-app/raw/master/Hear_Me_Out_Poster.pptx) to view the app
+Click [here](https://github.com/LucyRothwell/Hear-Me-Out-app/raw/master/Hear_Me_Out_Poster.pptx) to view a poster of the app
 
 **Overview**
 
@@ -24,4 +24,4 @@ A website content management system (CMS) was also created to allow clinicians t
 * Admin can approve or reject articles submitted
 * Admin can add, delete or deactivate users
 
-*NOTE: Code cannot be shared but a concise graphic overview of the final product can be seen in the "Hear_Me_Out_Poster" file.*
+*NOTE: Code cannot be shared but a concise graphic overview of the final product can be seen in the "Hear_Me_Out_Poster" file. Click [here](https://github.com/LucyRothwell/Hear-Me-Out-app/raw/master/Hear_Me_Out_Poster.pptx) to open.*
