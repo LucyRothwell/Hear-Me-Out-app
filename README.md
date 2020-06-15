@@ -1,5 +1,7 @@
 # "Hear Me Out" - A mobile app with website content management system (CMS)
 
+Click [here](https://github.com/LucyRothwell/Hear-Me-Out-app/raw/master/Hear_Me_Out_Poster.pptx) to view the app
+
 **Overview**
 
 A mobile app (built using angular in Ionic) to help child audiology patients transition into the adult healthcare system. Includes website CMS for content upload. 
