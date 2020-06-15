@@ -4,7 +4,8 @@
 
 A mobile app (built using angular in Ionic) to help child audiology patients transition into the adult healthcare system. Includes website CMS for content upload. 
 
-App Functionality:
+App Functionality
+
 * Log appointments ans symptoms
 * Find all NHS services across the UK (using NHS API)
 * Find NHS audio services
@@ -15,6 +16,7 @@ App Functionality:
 * Pop up help icons on each page
 
 Website Functionality
+
 A website content management system (CMS) was also created to allow clinicians to add articles to the "News" section of the app. Functionality:
 * Clinicians can write, edit and submit articles for publishing to the app
 * Admin can approve or reject articles submitted
