@@ -1,4 +1,4 @@
-# Hear Me Out App - A mobile app with website content management system (CMS)
+# "Hear Me Out" - A mobile app with website content management system (CMS)
 
 **Overview**
 
