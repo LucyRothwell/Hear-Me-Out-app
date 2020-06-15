@@ -6,12 +6,12 @@ A mobile app (built using angular in Ionic) to help child audiology patients tra
 
 App Functionality
 
-* Log appointments ans symptoms
+* Log appointments and symptoms
 * Find all NHS services across the UK (using NHS API)
 * Find NHS audio services
 * Take and upload photos (for example of medical reports and other useful information)
-* Write notes (for example at appointments)
-* Search for terms in glossary
+* Write notes (for example in appointments)
+* Search for audiology terms in glossary
 * Read news articles related to audiology
 * Pop up help icons on each page
 
