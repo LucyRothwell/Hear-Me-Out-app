@@ -1,6 +1,7 @@
 # "Hear Me Out" - A mobile app with website content management system (CMS)
 
 Click [here](https://github.com/LucyRothwell/Hear-Me-Out-app/raw/master/Hear_Me_Out_Poster.pptx) to view a poster of the app
+
 Click [here](https://adc.bmj.com/content/105/Suppl_2/A10.3) to see the app featured in the British Medical Journal
 
 **Overview**
